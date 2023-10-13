@@ -13,7 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Neeraaaj.Neeraaaj&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Neeraaaj.Neeraaaj&"  height="25" />
+  <img src="https://assets.holopin.io/hf2023levels/level1-blue-cat-0-0.webp" height="25" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="25" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" hieght="25" />
 </div>
 
 ###
