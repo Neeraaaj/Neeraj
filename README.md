@@ -28,6 +28,10 @@
 
 <p align="left">🚀 React developer by day, data scientist by night, and a front-end enthusiast around the clock. Combining the art of crafting elegant user interfaces with the science of data-driven insights. Let's build beautiful experiences and crunch numbers that matter! 💻📊 #ReactJS #DataScience #FrontEndDev"</p>
 
+<h1 align="center">Open Source Contributer</h1>
+<hr />
+<img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp"/>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
